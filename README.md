@@ -31,9 +31,16 @@ Bu rehber, **Ubuntu 24.04** üzerinde **Python 3.12**, **CUDA 12.6** ve **cuDNN 
 
 ---
 
-### ⚙️ CMake Komutu
+### Klasör düzeni
 
-OpenCV'yi GPU desteğiyle derlemek için kullanılan CMake komutu, `cmake_command.txt` dosyasında bulunmaktadır. Sisteminize uygun komutları buraya eklemeyi unutmayın.
+1. Şema:
+   ```bash
+   Home/
+    ├── opencv/
+    │   ├── build/
+    │   ├── opencv-4.11.0/
+    │   └── opencv_contrib-4.11.0/
+    ```
 
 ---
 
@@ -101,6 +108,9 @@ Kurulumun doğru şekilde yapıldığını kontrol etmek için aşağıdaki komu
 pkg-config --modversion opencv4
 ```
 
+
+
+
 # OpenCV GPU Support Compilation Guide – Ubuntu 24.04
 
 ## English Explanation
@@ -134,9 +144,15 @@ This guide provides a step-by-step process for setting up GPU-supported **OpenCV
 
 ---
 
-### ⚙️ CMake Command
+### Folder layout
 
-The CMake command used for compiling OpenCV with GPU support is available in the `cmake_command.txt` file. Make sure to add the necessary commands based on your system configuration.
+1.  Scheme
+
+Home/
+ ├── opencv/
+ │   ├── build/
+ │   ├── opencv-4.11.0/
+ │   └── opencv_contrib-4.11.0/
 
 ---
 
