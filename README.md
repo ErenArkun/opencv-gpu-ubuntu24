@@ -147,12 +147,13 @@ This guide provides a step-by-step process for setting up GPU-supported **OpenCV
 ### Folder layout
 
 1.  Scheme
-
-Home/
- ├── opencv/
- │   ├── build/
- │   ├── opencv-4.11.0/
- │   └── opencv_contrib-4.11.0/
+  ```bash
+     Home/
+      ├── opencv/
+      │   ├── build/
+      │   ├── opencv-4.11.0/
+      │   └── opencv_contrib-4.11.0/
+  ```
 
 ---
 
