@@ -164,7 +164,7 @@ This guide provides a step-by-step process for setting up GPU-supported **OpenCV
     sudo apt update
     ```
 
-2. "Compile OpenCV with the `cmake command`:"
+2. Compile OpenCV with the `cmake command`:
     ```bash
     cmake -D CMAKE_BUILD_TYPE=RELEASE \
       -D CMAKE_INSTALL_PREFIX=/usr/local \
