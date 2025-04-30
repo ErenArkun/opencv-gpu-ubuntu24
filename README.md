@@ -108,8 +108,9 @@ Kurulumun doğru şekilde yapıldığını kontrol etmek için aşağıdaki komu
 pkg-config --modversion opencv4
 ```
 
-
-
+---
+---
+---
 
 # OpenCV GPU Support Compilation Guide – Ubuntu 24.04
 
