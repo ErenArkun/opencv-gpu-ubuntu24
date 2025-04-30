@@ -34,10 +34,10 @@ Bu rehber, **Ubuntu 24.04** üzerinde **Python 3.12**, **CUDA 12.6** ve **cuDNN 
 ### Nvidia CUDA kurulum
 
 1. Yukarıda verilen bağlantıdaki NVIDIA CUDA kurulum sayfasına erişerek, yönergeleri adım adım uygulayınız.
-   ![CUDA KURULUM](img/cuda install.png)
+   ![CUDA KURULUM](img/cuda_install.png)
 
 2. Yukarıda verilen bağlantıdaki NVIDIA CUDNN kurulum sayfasına erişerek, yönergeleri adım adım uygulayınız.
-   ![CUDNN KURULUM](img/cudnn install.png)
+   ![CUDNN KURULUM](img/cudnn_install.png)
 
 ### Klasör düzeni
 
