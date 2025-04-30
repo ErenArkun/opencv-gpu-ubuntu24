@@ -153,6 +153,16 @@ This guide provides a step-by-step process for setting up GPU-supported **OpenCV
 
 ---
 
+### Nvidia CUDA kurulum
+
+1. Visit the NVIDIA CUDA installation page via the link above and follow the instructions step by step.
+   ![CUDA INSTALL](img/cuda_install.png)
+
+2. Visit the NVIDIA CUDNN installation page via the link above and follow the instructions step by step.
+   ![CUDNN INSTALL](img/cudnn_install.png)
+
+---
+
 ### Folder layout
 
 1.  Scheme
