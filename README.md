@@ -25,7 +25,7 @@ Bu rehber, **Ubuntu 24.04** üzerinde **Python 3.12**, **CUDA 12.6** ve **cuDNN 
 ### Gerekli Dosyalar
 
 - **CUDA 12.6**: [CUDA 12.6 İndirme Sayfası](https://developer.nvidia.com/cuda-12-6-0-download-archive)
-- **cuDNN 9.8.0**: [cuDNN 9.8 İndirme Sayfası](https://developer.nvidia.com/cudnn-downloads)
+- **cuDNN 9.8.0**: [cuDNN 9.8 İndirme Sayfası](https://developer.nvidia.com/cudnn-9-8-0-download-archive)
 - **OpenCV 4.11**: [OpenCV 4.11 Sürümü](https://opencv.org/releases/)
 - **OpenCV 4.11 Contrib Kütüphaneleri**: [OpenCV Contrib Kütüphaneleri 4.11.0](https://github.com/opencv/opencv_contrib/tree/4.11.0)
 
@@ -147,7 +147,7 @@ This guide provides a step-by-step process for setting up GPU-supported **OpenCV
 ### Required Files
 
 - **CUDA 12.6**: [CUDA 12.6 Download Page](https://developer.nvidia.com/cuda-12-6-0-download-archive)
-- **cuDNN 9.8.0**: [cuDNN 9.8 Download Page](https://developer.nvidia.com/cudnn-downloads)
+- **cuDNN 9.8.0**: [cuDNN 9.8 Download Page](https://developer.nvidia.com/cudnn-9-8-0-download-archive)
 - **OpenCV 4.11**: [OpenCV 4.11 Release](https://opencv.org/releases/)
 - **OpenCV 4.11 Contrib Libraries**: [OpenCV Contrib Libraries 4.11.0](https://github.com/opencv/opencv_contrib/tree/4.11.0)
 
